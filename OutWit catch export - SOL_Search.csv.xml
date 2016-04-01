@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>benjamindoyle</Author>
+  <LastAuthor>benjamindoyle</LastAuthor>
+  <Created>2016-02-05T20:22:16Z</Created>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7155</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <Date1904/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Top"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Verdana" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Verdana" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Verdana" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Verdana" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Collection1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="13" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54">
+   <Column ss:Index="7" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="464.25"/>
+   <Row ss:StyleID="s63">
+    <Cell><Data ss:Type="String">R</Data></Cell>
+    <Cell><Data ss:Type="String">P</Data></Cell>
+    <Cell><Data ss:Type="String">Collection Time</Data></Cell>
+    <Cell><Data ss:Type="String">Source Url</Data></Cell>
+    <Cell><Data ss:Type="String">Text</Data></Cell>
+    <Cell><Data ss:Type="String">Adler</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Transcription</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">alpha,3114</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chi,63</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Meaning you will depart. Sophocles [sc. uses the word].</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chi,358</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">[Meaning] to the ground, into/towards [the] earth. Also [sc. attested is] χαμᾶζε, [also meaning] to the ground.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">delta,752</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">[The words] χλοερός and χλωρός [&quot;pale green&quot;] [are derived] from χολή [&quot;bile&quot;], and from this the [word] ὠχρός [&quot;sallow&quot;] [also comes]. And [sc. also attested is] χλωρότης [&quot;greenness&quot;].</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">delta,1205</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">A festival of Zeus the Kindly[1] at Athens, it is called 'Diasia' because they escaped [ διαφυγεῖν ] troubles [ ἄσαι ] with their prayers.[2];And Aristophanes [writes]: &quot;when I bought you a little cart at the Diasia.&quot;[3]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">lambda,557</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">A [sign of] divine anger.[1];The thousand Scythians were present, more rapid than any Zeus -omen, whether a flash of light or a hurricane or a thunderbolt or a storm or a meteorite&quot;.[2];Aternatively a διοσημία is an unexpected storm. Aristophanes [3][writes]: &quot;it is a divine omen,[4] and a raindrop[5] has struck me!&quot; –- [Herald:] &quot;the Thracians are to withdraw,[6] and return the day after tomorrow,[7] for the prytaneis are dismissing the assembly&quot;.[8] In reference to business being postponed. The Athenians were respectful[9] of divine omens and used to break up the assemblies or everything else they were going to accomplish, every time a sign came from the sky.;And Eunapius says about the emperor Carinus: &quot;and all of his outbursts were more violent than a Zeus -omen and he used to have fits of rage in the midst of his subjects&quot;.[10]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">mu,519</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">[A phrase used] in reference to hardships. For during the Peloponnesian War the Athenians dispatched Nikias [1] against everyone[2] and laid siege to them so strenuously as to make them perish by starvation. And in the first year Nikias brought Melos to terms not only by bringing up siege engines but also by starvation, because of their revolt, this had previously been a tribute-paying subject-community.[3] Or standing for &quot;enormous.&quot;[4] Melos [is] a city of Thessaly.[5] The Melians, besieged by the Athenians to the point of starvation, were persuaded[6] and surrendered themselves.;Also [sc. attested is] &quot;with Melian starvation&quot;,[7] a proverb. Since the Athenians afflicted the Melians by besieging them to the point of starvation. So Thucydides in the fifth [book].[8]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">omega,275</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">For some dogs are trackers, others go head-to-head with beasts, some watch the house on guard over possessions, others [are kept] for pleasure, for instance Maltese lap-dogs.[1];Also [sc. attested are] Honey- pie dogs, ones reared for pleasure.[2]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">pi,901</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">[Meaning] o man. This is how Aristophanes introduces Socrates in Clouds saying, o mortal, o man, o thinker on things which last a day.[1] He says this because he is himself already thinking about divine matters and disdaining human affairs by considering celestial phenomena. Or because Socrates was said to be very like Silenus [ Author, Myth ];[2] for he was both snub-nosed and bald. So [ Aristophanes ] gives him Silenus' phrase in Pindar. For Pindar portraying him conversing with Olympos [ Myth, Place, Place ][3] gave him the following words, &quot;O wretched man, creature of a day, fool, you are talking by boasting to me of money&quot;.[4] At the same time too, because Socrates [sc. in Clouds ] already disdains human matters and is himself among the gods,[5] since he was a star-gazer, so [ Aristophanes ] made him talk about that which lives for one day.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">pi,1563</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">[Meaning] bindings.[1];[sc. The word comes] from ποῦς [&quot;foot&quot;] and δέω [&quot;I bind&quot;], the [verb meaning] I tie together: or from weighing down [ πιέζειν ] the feet [ πόδας ].[2]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">pi,2550</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">[Meaning] being weighed down, being overcome.[1];Also[2] [&quot;is oppressing&quot;] meaning is harming. Aristophanes [writes]: &quot;[the fire] is oppressing Stilbides&quot;. Stilbides [was] an excellent and well-respected seer.[3]</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2/5/2016 3:21:45 PM</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">http://www.stoa.org/sol-bin/search.pl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">[Meaning] before the [sc. appropriate] time.[1]</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <x:PageLayoutZoom>0</x:PageLayoutZoom>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

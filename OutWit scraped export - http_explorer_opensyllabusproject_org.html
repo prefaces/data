@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  <title>:\Users\benjamindoyle\Documents\GitHub\data\OutWit scraped export - http explorer opensyllabusproject org</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta content="outwit datasheet">
+  <meta name="Generator" content="OutWit Hub 5.0.0.163">
+<style>
+  body { color:#000000; text-align:inherit; vertical-align:top; white-space:normal; font-size:9pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Verdana, Arial, Helvetica, sans-serif; border:none; }
+  .outsideFrame {border: none; padding: 5px;}
+  .pageTitle {padding-left:15px; text-align:left; font-size:12px; color:#666; font-style:italic;}
+  a:visited {}
+  a{color:inherit; text-decoration:inherit;}
+  a:hover {color:inherit; text-decoration:underline;}
+  .c2{}
+
+
+  li{ clear:both; margin-top:15px;}
+  li:hover {background:#F2F7FF; }
+  tr:hover { background:lightblue; }
+  .header {color:white; background-color:black; padding-right:5px; padding-left:5px; font-weight:bold}
+  td { max-width:400px; overflow:hidden; padding-right:2px; padding-left:2px; color:black; vertical-align:top; border-left:1pt; white-space:nowrap; }
+  td:hover { overflow:auto; vertical-align:top; border-left:1pt; white-space:normal; }
+  .thumbnail {height:40px; max-height:40px; max-width:150px; }
+  .thumbnail-container { background-color:black;vertical-align:middle; text-align:center; }
+
+  .signature {color:grey !important; font-size:6pt !important; font-style:italic !important; text-decoration:none !important; text-align:right !important; }
+  #zoomDiv { position: absolute; top: 0; left: 0; z-index: 100; background-color: white; border: 1px solid black; padding: 5px; display: none;}
+  #zoomImg { max-width: 800px; max-height: 600px; }
+</style>
+<script type="text/javascript">
+var thumbZoomer = { getDocumentPosition: function getDocumentPosition() { var result = { width: 0, height: 0, scrollX: 0, scrollY: 0 }; if (typeof (window.innerWidth) == "number") { result.width = window.innerWidth; result.height = window.innerHeight; } else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)) { result.width = document.documentElement.clientWidth; result.height = document.documentElement.clientHeight; } else if (document.body && (document.body.clientWidth || document.body.clientHeight)) { result.width = document.body.clientWidth; result.height = document.body.clientHeight; } if (typeof (window.pageYOffset) == "number") { result.scrollY = window.pageYOffset; result.scrollX = window.pageXOffset; } else if (document.body && (document.body.scrollLeft || document.body.scrollTop)) { result.scrollY = document.body.scrollTop; result.scrollX = document.body.scrollLeft; } else if (document.documentElement && (document.documentElement.scrollLeft || document.documentElement.scrollTop)) { result.scrollY = document.documentElement.scrollTop; result.scrollX = document.documentElement.scrollLeft; } return result; }, zoomDiv: null, zoomImg: null, SPACER: 10, getImg: function getImg(event) { return (event.target.nodeName.toLowerCase() == "img" ? event.target : event.target.getElementsByClassName("thumbnail")[0]); }, moveImage: function moveImage(event, onShow, img) { var pos = this.getDocumentPosition(); var oldWidth = this.zoomImg.width; var oldHeight = this.zoomImg.height; if (onShow) { this.zoomImg.style.height = Math.min((window.innerHeight - 2 * this.SPACER - img.height), this.zoomImg.height) + "px"; this.zoomImg.style.width = Math.min((window.innerWidth - 2 * this.SPACER - img.width), this.zoomImg.width) + "px"; } this.zoomDiv.style.top = Math.min(event.clientY + pos.scrollY - 3 * this.SPACER, window.innerHeight + pos.scrollY - this.zoomImg.height - 3 * this.SPACER ) + "px"; var newXPosition = Math.min(event.clientX + pos.scrollX - this.zoomImg.width - 2 * this.SPACER, window.innerWidth + pos.scrollX - this.zoomImg.width + 2 * this.SPACER); var newXMin = event.clientX + pos.scrollX + 2 * this.SPACER; this.zoomDiv.style.left = newXPosition + "px"; if(event.clientX + pos.scrollX < window.innerWidth/2 + pos.scrollX) {this.zoomDiv.style.left = newXMin + "px"}; if (onShow) { var widthRatio = parseInt(this.zoomImg.style.width) / oldWidth; var heightRatio = parseInt(this.zoomImg.style.height) / oldHeight; if (widthRatio > heightRatio) { this.zoomImg.style.width = (oldWidth * heightRatio) + "px"; } else { this.zoomImg.style.height = (oldHeight * widthRatio) + "px"; } } }, showCaption: function (event, img, message) { var pos = this.getDocumentPosition(); document.getElementById("caption").style.overflow = "hidden"; document.getElementById("caption").innerHTML = message; }, showImage: function showImage(event) { var img = this.getImg(event); if (img) { this.zoomImg.setAttribute("src", img.getAttribute("src")); this.moveImage(event, true, img); this.zoomDiv.style.display = "inline-block"; } }, hideImage: function hideImage(event) { this.zoomDiv.style.display = "none"; this.zoomImg.style.width = this.zoomImg.style.height = "auto"; this.zoomDiv.style.top = this.zoomDiv.style.left = 0; this.zoomImg.setAttribute("src", ""); }, init: function init(anElement) { var elt = anElement || document; this.zoomDiv = document.getElementById("zoomDiv"); this.zoomImg = document.getElementById("zoomImg"); var containers = elt.querySelectorAll(".thumbnail-container"); var self = this; for (var i = 0; i < containers.length; ++i) { containers[i].addEventListener("mouseover", function (event) { self.showImage(event); }, true); containers[i].addEventListener("mouseout", function (event) { self.hideImage(event); }, true); containers[i].addEventListener("mousemove", function (event) { self.moveImage(event); }, true); } } };
+</script>
+
+</head>
+<body>
+<div id="zoomDiv"><img id="zoomImg" src="" /></div>
+<div class="outsideFrame" id="outsideFrame">
+
+<table>
+<thead>
+<tr class="headerRow headerFooterRow">
+<th class="header">Source Url</th>
+</tr>
+
+</thead><tbody id="dataContainer">
+
+</tbody>
+</table>
+</div>
+  <script type="text/javascript">thumbZoomer.init()</script>
+</body>
+</html>
